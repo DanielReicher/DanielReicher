@@ -4,7 +4,7 @@
 - a student in Cyber Magshimim program
 
 
-## <img src="pink star.jpg" height="40" style="vertical-align: middle;" /> &nbsp; Currently Working On
+## <img src="pink star.png" height="30" style="vertical-align: middle;" /> &nbsp; Currently Working On
 
 | description | link |
 |------|---------------|

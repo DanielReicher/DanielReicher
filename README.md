@@ -7,5 +7,5 @@
 
 | description | link |
 |------|---------------|
-| [`Remote Access Trojan (RAT)`] | *link |
-| [`mini bootloader + kernel`] | *link |
+| Remote Access Trojan (RAT)| [`RAT`](https://github.com/DanielReicher/RAT) |
+| mini bootloader + kernel | [`flowerOS`](https://github.com/DanielReicher/flowerOS) |

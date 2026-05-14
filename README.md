@@ -5,7 +5,7 @@
 > OS, cyber security, reverse engineering  , C, C++, Python, assembly, bash
 
 
-## <img src="pink star.png" height="30" style="vertical-align: middle;" /> &nbsp; Currently Working On
+## <img src="smielySticker.jpg" height="30" style="vertical-align: middle;" /> &nbsp; Currently Working On
 
 | description | link |
 |------|---------------|

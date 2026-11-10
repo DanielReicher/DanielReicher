@@ -1,5 +1,5 @@
 ## <img src="./laptop sticker.jpg" height="30" style="vertical-align: middle;" /> &nbsp; About Me 
-
+hello! my name is Daniel Reicher 
 - a high school student from israel
 - a Cyber Magshimim student 
 > OS development, cyber security, reverse engineering  , C, C++, Python, assembly, bash

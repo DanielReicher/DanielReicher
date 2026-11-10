@@ -4,12 +4,8 @@
 - High school student
 # &nbsp;
 ## Currently Working On
-- [`MY-OS`](https://github.com/DanielReicher/MY-OS.git)- Building an Operating System + Bootloader from Scratch (x86 architecture & Bios)
-- 
+- [MY-OS](https://github.com/DanielReicher/MY-OS.git)- Building an Operating System + Bootloader from Scratch (x86 architecture & Bios)
+- [Sandbox](https://github.com/DanielReicher/Sandbox) – Developing an isolated environment that analyzes files and assigns each one a risk score.
 
-| description | link |
-|------|---------------|
-| bootloader + kernel | [`myOS`](https://github.com/DanielReicher/MY-OS.git) |
-| Remote Access Trojan (RAT)| [`RAT`](https://github.com/DanielReicher/RAT) |
 
 
